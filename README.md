@@ -118,7 +118,7 @@ export default App;
 ## Authors
 
 * [Angela Kressin](https://github.com/angkressin)
-* [Sean Anderson](https://github.com/andersensm)
+* [Sean Andersen](https://github.com/andersensm)
 * [Nalut (Tak) Sangtakraw](https://github.com/tak009)
 * [Wai Yan](https://github.com/Wai-Yan/)
 
